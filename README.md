@@ -1,25 +1,21 @@
-
----
-
-# 📋 SistemaDeCadastro
-
-👉 Repositório: **SistemaDeCadastro**
-
-```md
 # 📋 Sistema de Cadastro
 
-Aplicação desenvolvida em **Java** para gerenciamento de cadastros,
-com foco no aprendizado de lógica de programação e POO.
+Projeto desenvolvido em **Java**, com foco na prática de lógica de programação
+e Programação Orientada a Objetos (POO).
 
 ## 📌 Sobre
 O sistema simula um CRUD básico (Create, Read, Update e Delete),
 permitindo o cadastro, listagem, busca e remoção de registros
 por meio de um menu em linha de comando (CLI).
 
+Este projeto foi criado com objetivo educacional, reforçando conceitos
+fundamentais da linguagem Java e organização do código.
+
 ## 🚀 Tecnologias Utilizadas
 - Java
-- Collections (ArrayList)
 - Programação Orientada a Objetos (POO)
+- Collections (ArrayList)
+- IDE: IntelliJ / Eclipse / VS Code
 
 ## ⚙️ Funcionalidades
 - Cadastrar registros
